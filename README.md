@@ -1,4 +1,8 @@
 # Advanced Automation Project Structure
+Leandro Ferreira 112172
+Leonor Galego 102876
+João Sousa 103666
+Projeto 07
 
 *A logical, reasonably standardized, but flexible project structure for doing and sharing work. (based on [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/))*
 
